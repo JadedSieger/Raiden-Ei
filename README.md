@@ -2,7 +2,7 @@
 
 ## Raiden Ei was created by SimpCast Productions.
 
-**SimpCast Productions reignites Ei's consciousness as they expands to new frontiers**
+**SimpCast Productions reignites Ei's consciousness as they expand to new frontiers**
 
 Raiden Ei, like other bots in the SimpCast Productions / Griffin & Kryuger arsenal are created with Akarui's aoi.js, and we are very thankful to leref and the aoi.js development team for such an efficient and easier way to develop discord bots.
 
