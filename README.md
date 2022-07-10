@@ -38,4 +38,4 @@ simply type ```node index.js``` in the terminal and wait for it to start!
 
 For creating your own commands, consult to the aoi.js documentation
 
-[aoi.js v5 documentation:]https://aoi.js.org/
+[aoi.js v5 documentation:](https://aoi.js.org/)
