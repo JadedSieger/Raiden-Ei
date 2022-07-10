@@ -1,0 +1,17 @@
+{
+  "name": "music-queen-bot",
+  "version": "0.1.1",
+  "description": "A music bot made with aoijs-music",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@akarui/aoi.music": "^1.2.5",
+    "aoi.js": "^5.5.0",
+    "express": "^4.18.1",
+    "node": "^16.9.0",
+    "npm": "^8.13.2",
+    "python3": "^0.0.1"
+  }
+}
