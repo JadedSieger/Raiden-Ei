@@ -1,4 +1,6 @@
-# Raiden Ei v2: The Music Update, now live. Raiden Ei was created by SimpCast Productions.
+# Raiden Ei v2: The Music Update, now live. 
+
+## Raiden Ei was created by SimpCast Productions.
 
 **SimpCast Productions reignites Ei's consciousness as they expands to new frontiers**
 
